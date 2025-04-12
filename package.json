@@ -8,7 +8,7 @@
     "scripts": {
     "start": "node index.js"
   },
-  "author": "VenocyberTech",
+  "author": "SpeedTech",
   "license": "MIT license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
